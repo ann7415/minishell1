@@ -1,4 +1,4 @@
-Minishell 1
+# Minishell 1
 {EPITECH} | First year | 1st semester Unix System programming
 
 Develop a basic UNIX command interpreter. Supports basic commands, handles errors, and implements builtins like cd, setenv, unsetenv, env, and exit. No support for advanced features like pipes or redirections.
