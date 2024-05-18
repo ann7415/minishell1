@@ -1,7 +1,7 @@
 Minishell 1
-{EPITECH} | First year | Unix System programming project
+{EPITECH} | First year | 1st semester Unix System programming
 
-1st semester Unix System programming (part II) unit
+Develop a basic UNIX command interpreter. Supports basic commands, handles errors, and implements builtins like cd, setenv, unsetenv, env, and exit. No support for advanced features like pipes or redirections.
 
 | Category                  | Percentage | Tests | Crash? |
 |---------------------------|------------|-------|--------|
